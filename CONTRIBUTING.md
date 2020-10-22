@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Welcome to [Website for Tech Summit Conference](https://my-file-explorer-by-roshan.herokuapp.com/)! Before sending your pull requests, make sure you read the complete guideleines. If you still have any doubts, feel free to create an issue or [contact us](https://github.com/Roshan13046).
+Welcome to [Online File Explorer App](https://my-file-explorer-by-roshan.herokuapp.com/)! Before sending your pull requests, make sure you read the complete guideleines. If you still have any doubts, feel free to create an issue or [contact us](https://github.com/Roshan13046).
 
 ## Contributing
 
