@@ -16,7 +16,7 @@ If you find any issues with the currently present implementations, feel to corre
 ● It also shows the path directory relative to the home directory and it's build using pure node.js without using any frameworks.
 ● I have also built in node modules of https to create server,child processors module,Path module,file system module
 
-# Functionalitites of App:
+# Functionalities of App:
 
 The different functionalities of my app are as follows
 
