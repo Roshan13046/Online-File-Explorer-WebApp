@@ -83,17 +83,10 @@ This helps a lot especially with large files like videos.
 
 Check [Project] (https://my-file-explorer-by-roshan.herokuapp.com/)
 
-## Hacktoberfest
-
-This repo is Hacktoberfest friendly. But make sure that the you don't spam with PRs. Read the `CONTRIBUTING.md` file for Contribution Guidelines.
-
-For info about how to contribute to Open Source and Participate in Hacktoberfest, check out the below post:
-
-https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Open-Source-and-Hacktoberfest.php
 
 ## Contributions
 
-Read the [Contribution Guidlines](https://github.com/aniketsharma00411/algorithmsUse/blob/master/CONTRIBUTING.md) before you contribute.
+Read the [Contribution Guidlines](https://github.com/Roshan13046/Online-File-Explorer-WebApp/blob/master/CONTRIBUTING.md) before you contribute.
 
 You can also create an issue or [contact us](https://github.com/Roshan13046) if you have any doubts.
 
